@@ -1,0 +1,25 @@
+.intro{
+  font-style: italic;
+}
+.author{
+  color: red
+}
+p.author{
+  font-size: 12px
+}
+.text{
+  font-family: sans-serif;
+}
+.simba{
+  max-width: 20%;
+  max-height: 10%;
+
+}
+.mtoto{
+  max-width: 20%;
+  max-height:10%
+}
+.mama{
+  max-width: 20%;
+  max-height:10%;
+}
